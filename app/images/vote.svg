@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="22px" viewBox="0 0 15 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UpvoteIcon" transform="translate(-4.000000, -1.000000)" fill="#FFFFFF" stroke="#000000">
+            <g id="Group-17" transform="translate(5.000000, 2.000000)">
+                <path d="M9,10 L9,1.5 C9,0.671572875 9.67157288,1.52179594e-16 10.5,0 L10.5,0 C11.3284271,-1.52179594e-16 12,0.671572875 12,1.5 L12,12" id="Path-6"></path>
+                <path d="M6,10 L6,7.5 C6,6.67157288 6.67157288,6 7.5,6 L7.5,6 C8.32842712,6 9,6.67157288 9,7.5 L9,10" id="Path-7"></path>
+                <path d="M3,11 L3,8.5 C3,7.67157288 3.67157288,7 4.5,7 L4.5,7 C5.32842712,7 6,7.67157288 6,8.5 L6,11" id="Path-7-Copy" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0,12 C9.42952148e-13,15.3333333 0.666666667,17.6666667 2,19 C4,21 10.4491499,21.1017001 12,18 C13,16 13,13 12,12" id="Path-8"></path>
+                <path d="M0,13 L0,10.5 C-1.01453063e-16,9.67157288 0.671572875,9 1.5,9 L1.5,9 C2.32842712,9 3,9.67157288 3,10.5 L3,13" id="Path-7-Copy-2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9,15 L8.5527864,14.1055728 C8.21400238,13.4280048 7.52147614,13 6.76393202,13 L5.5,13 C4.67157288,13 4,12.3284271 4,11.5 L4,11.5 C4,10.6715729 4.67157288,10 5.5,10 L7.78889745,10 C8.57859739,10 9.35062816,10.2337521 10.0076982,10.6717988 L12,12" id="Path-5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

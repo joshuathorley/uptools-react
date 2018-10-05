@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="6px" viewBox="0 0 8 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Build" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="Home" transform="translate(-1131.000000, -1094.000000)" fill="#5700FF">
+            <g id="Listings" transform="translate(130.000000, 1077.000000)">
+                <g id="Filters">
+                    <g id="Sort" transform="translate(882.000000, 0.000000)">
+                        <g id="Group-6" transform="translate(48.000000, 0.000000)">
+                            <path d="M72.1350416,17 L77.8649584,17 C78.4172431,17 78.8649584,17.4477153 78.8649584,18 C78.8649584,18.2339365 78.7829422,18.4604694 78.6331797,18.6401844 L75.7682213,22.0781345 C75.4146572,22.5024114 74.7840925,22.5597354 74.3598156,22.2061713 C74.3133525,22.1674521 74.2704979,22.1245975 74.2317787,22.0781345 L71.3668203,18.6401844 C71.0132563,18.2159075 71.0705803,17.5853428 71.4948572,17.2317787 C71.6745722,17.0820162 71.9011051,17 72.1350416,17 Z" id="dropdown"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

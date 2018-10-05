@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="83px" viewBox="0 0 85 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Diamond</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Build" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-891.000000, -628.000000)">
+            <g id="Header" transform="translate(130.000000, 64.000000)">
+                <g id="Illo" transform="translate(501.000000, 285.000000)">
+                    <g id="Diamond" transform="translate(303.004397, 320.640210) rotate(14.000000) translate(-303.004397, -320.640210) translate(260.004397, 278.140210)">
+                        <polygon id="Path-13" fill="#252525" points="43 54.905838 86 44.180791 43 0"></polygon>
+                        <polygon id="Path-13" fill="#343434" transform="translate(21.500000, 27.452919) scale(-1, 1) translate(-21.500000, -27.452919) " points="0 54.905838 43 44.180791 0 0"></polygon>
+                        <polygon id="Path-14" fill="#000000" points="43 54.905838 43 85 86 44.180791"></polygon>
+                        <polygon id="Path-14" fill="#252525" transform="translate(21.500000, 64.590395) scale(-1, 1) translate(-21.500000, -64.590395) " points="0 54.905838 0 85 43 44.180791"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

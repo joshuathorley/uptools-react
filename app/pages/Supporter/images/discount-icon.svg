@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="44px" viewBox="0 0 45 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>discount-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Build" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Copy" transform="translate(-186.000000, -819.000000)">
+            <g id="Group-8" transform="translate(160.000000, 795.000000)">
+                <g id="Group-7" transform="translate(23.000000, 24.000000)">
+                    <g id="Group-6">
+                        <g id="Group-3">
+                            <g id="discount-icon" transform="translate(1.000000, 0.000000)">
+                                <g id="DiscountIcon">
+                                    <g id="Discount">
+                                        <rect id="Rectangle-17" fill="#FFFFFF" opacity="0.01" x="2.97766749" y="0" width="43.6724566" height="44"></rect>
+                                        <g id="Group-20" transform="translate(23.823954, 23.313209) rotate(-45.000000) translate(-23.823954, -23.313209) translate(11.323954, 3.313209)">
+                                            <path d="M13.7253663,1.44063773 C13.1315949,0.98264958 12.303663,0.98264958 11.7098916,1.44063773 L3.05070888,8.11964454 C2.05654837,8.88646111 1.47424597,10.0709971 1.47424597,11.32653 L1.47424597,34.2318322 C1.47424597,36.4685855 3.28749274,38.2818322 5.52424597,38.2818322 L19.9110119,38.2818322 C22.1477651,38.2818322 23.9610119,36.4685855 23.9610119,34.2318322 L23.9610119,11.32653 C23.9610119,10.0709971 23.3787095,8.88646111 22.384549,8.11964454 L13.7253663,1.44063773 Z" id="Rectangle-3" stroke="#000000" stroke-width="1.5"></path>
+                                            <ellipse id="Oval-3" fill="#000000" cx="12.7176289" cy="11.7703222" rx="2.39867659" ry="2.41666667"></ellipse>
+                                        </g>
+                                        <path d="M9.92555831,12 C5.67962503,6.94444444 4.35621726,3.61111111 5.95533499,2 C8.35401158,-0.416666667 17.866005,9.75 17.866005,17" id="Path-10" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

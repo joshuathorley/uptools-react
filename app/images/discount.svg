@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>DiscountIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tools/Default" transform="translate(-121.000000, -13.000000)">
+            <g id="DiscountIcon" transform="translate(121.000000, 13.000000)">
+                <g id="Discount">
+                    <rect id="Rectangle-17" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="24" height="24"></rect>
+                    <g id="Group-20" transform="translate(12.192388, 12.497475) rotate(-45.000000) translate(-12.192388, -12.497475) translate(6.692388, 3.997475)">
+                        <path d="M6.01967245,1.15874289 C5.84030773,1.02142505 5.59114978,1.02142505 5.41178505,1.15874289 L1.80389765,3.92086518 C1.43315615,4.20469703 1.21572875,4.64498486 1.21572875,5.11190004 L1.21572875,14.5648961 C1.21572875,15.3933232 1.88730163,16.0648961 2.71572875,16.0648961 L8.71572875,16.0648961 C9.54415588,16.0648961 10.2157288,15.3933232 10.2157288,14.5648961 L10.2157288,5.11190004 C10.2157288,4.64498486 9.99830136,4.20469703 9.62755985,3.92086518 L6.01967245,1.15874289 Z" id="Rectangle-3" stroke="#FF3E00" fill="#FFEAE4"></path>
+                        <circle id="Oval-3" fill="#FF3E00" cx="5.71572875" cy="5.28427125" r="1"></circle>
+                    </g>
+                    <path d="M7,8 C5,6 4.33333333,4.66666667 5,4 C6,3 10,7 10,10" id="Path-10" stroke="#FF3E00" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

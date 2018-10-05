@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Build" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Copy-2" transform="translate(-197.000000, -513.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Header" transform="translate(123.000000, 60.000000)">
+                <g id="Intro" transform="translate(58.000000, 132.000000)">
+                    <g id="Signin-Button" transform="translate(0.000000, 307.000000)">
+                        <g id="icon" transform="translate(16.000000, 14.000000)">
+                            <path d="M12.24,10.285 L12.24,14.4 L19.046,14.4 C18.771,16.165 16.99,19.574 12.24,19.574 C8.145,19.574 4.801,16.185 4.801,12 C4.801,7.815 8.146,4.426 12.24,4.426 C14.57,4.426 16.131,5.415 17.025,6.275 L20.279,3.137 C18.189,1.186 15.479,0 12.24,0 C5.605,0 0.24,5.365 0.24,12 C0.24,18.635 5.605,24 12.24,24 C19.166,24 23.76,19.131 23.76,12.274 C23.76,11.486 23.675,10.884 23.571,10.285 L12.24,10.285 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
